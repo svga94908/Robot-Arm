@@ -3,7 +3,7 @@
 
 <img width="4000" height="3000" alt="IMG_20201123_133804" src="https://github.com/user-attachments/assets/58fb33c2-b547-4789-bcd2-c83c981a74b7" />
 
-
+![Arduino Robot Arm/Demo.gif](./Demo.gif)
 
 
 # Components
